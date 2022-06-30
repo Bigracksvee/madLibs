@@ -1,0 +1,13 @@
+body {
+    background-color: #A4688C;
+    background: -moz-linear-gradient(45deg, #A4688C 0%, #4ECBC8 50%, #406F4D 100%);
+    background: -webkit-linear-gradient(45deg, #A4688C 0%, #4ECBC8 50%, #406F4D 100%);
+    background: linear-gradient(45deg, #A4688C 0%, #4ECBC8 50%, #406F4D 100%);;
+}
+.title{
+    font-size: 50px;
+}
+
+input {
+    background-color: #A4688C;
+}
